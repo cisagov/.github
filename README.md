@@ -1,3 +1,3 @@
 # Default community health files for cisagov ⚕️
 
-[![Build Status](https://travis-ci.com/cisagov/.github.svg)](https://travis-ci.com/cisagov/.github)
+[![GitHub Build Status](https://github.com/cisagov/.github/workflows/build/badge.svg)](https://github.com/cisagov/.github/actions)
