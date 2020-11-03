@@ -1,4 +1,4 @@
-# Community health files for the @cisagov organization ⚕️
+# Community health files for the @cisagov organization ⚕️ #
 
 [![GitHub Build Status](https://github.com/cisagov/.github/workflows/build/badge.svg)](https://github.com/cisagov/.github/actions)
 
