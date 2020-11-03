@@ -45,7 +45,8 @@
 
 * [ ] PR has an informative and human-readable title
 * [ ] Changes are limited to a single goal - _eschew scope creep!_
-* [ ] _All_ future TODOs are captured in code comments _and_ issues
+* [ ] _All_ future TODOs are captured in issues, which are referenced
+      in code comments.
 * [ ] Assignee and relevant labels have been added
 * [ ] I have read the [CONTRIBUTING](../blob/develop/CONTRIBUTING.md) document
 * [ ] Code changes follow [cisagov code standards](https://github.com/cisagov/development-guide)
