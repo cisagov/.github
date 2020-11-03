@@ -9,7 +9,8 @@
 
 <!-- Why is this change required? -->
 <!-- What problem does this change solve? How did you solve it? -->
-<!-- Link to any related issue(s) here to auto-close them on merge. -->
+<!-- Mention any related issue(s) here using appropriate keywords such
+<!-- as "closes" or "resolves" to auto-close them on merge. -->
 
 ## 🧪 Testing ##
 
