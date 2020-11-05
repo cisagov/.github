@@ -44,13 +44,16 @@
 <!-- If you're unsure about any of these, don't hesitate to ask. -->
 <!-- We're here to help! -->
 
-* [ ] PR has an informative and human-readable title
+* [ ] This PR has an informative and human-readable title.
 * [ ] Changes are limited to a single goal - _eschew scope creep!_
 * [ ] _All_ future TODOs are captured in issues, which are referenced
       in code comments.
-* [ ] Assignee and relevant labels have been added
-* [ ] I have read the [CONTRIBUTING](../blob/develop/CONTRIBUTING.md) document
-* [ ] Code changes follow [cisagov code standards](https://github.com/cisagov/development-guide)
-* [ ] Repo and/or project documentation updated to reflect the changes in this PR
-* [ ] Tests have been added to cover the changes in this PR
-* [ ] All new and existing tests pass
+* [ ] An assignee and all relevant labels have been added.
+* [ ] I have read the [CONTRIBUTING](../blob/develop/CONTRIBUTING.md)
+      document.
+* [ ] These code changes follow [cisagov code
+      standards](https://github.com/cisagov/development-guide).
+* [ ] All relevant repo and/or project documentation has been updated
+      to reflect the changes in this PR.
+* [ ] Tests have been added to cover the changes in this PR.
+* [ ] All new and existing tests pass.
