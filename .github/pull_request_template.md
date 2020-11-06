@@ -23,20 +23,6 @@
 
 <!-- Remove this section and header if not needed -->
 
-## 🚥 Types of Changes ##
-
-<!-- What types of changes does your code introduce? -->
-<!-- Add any relevant types and remove any that don't apply. -->
-<!-- Consider making a PR against the template in
-<!-- https://github.com/cisagov/.github for new types. -->
-
-* Bug fix (non-breaking change which fixes an issue)
-* New feature (non-breaking change which adds functionality)
-* Breaking change (causes existing functionality to change)
-* Documentation change
-* Upstream update
-* Version bump
-
 ## ✅ Checklist ##
 
 <!-- Remove any of the following that do not apply. -->
@@ -48,7 +34,7 @@
 * [ ] Changes are limited to a single goal - _eschew scope creep!_
 * [ ] _All_ future TODOs are captured in issues, which are referenced
       in code comments.
-* [ ] An assignee and all relevant labels have been added.
+* [ ] An assignee and type of change labels have been added.
 * [ ] I have read the [CONTRIBUTING](../blob/develop/CONTRIBUTING.md)
       document.
 * [ ] These code changes follow [cisagov code
