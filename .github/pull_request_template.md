@@ -34,7 +34,7 @@
 * [ ] Changes are limited to a single goal - _eschew scope creep!_
 * [ ] _All_ future TODOs are captured in issues, which are referenced
       in code comments.
-* [ ] An assignee and all relevant type-of-change labels have been added.
+* [ ] All relevant type-of-change labels have been added.
 * [ ] I have read the [CONTRIBUTING](../blob/develop/CONTRIBUTING.md)
       document.
 * [ ] These code changes follow [cisagov code
