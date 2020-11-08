@@ -35,10 +35,8 @@
 * [ ] _All_ future TODOs are captured in issues, which are referenced
       in code comments.
 * [ ] All relevant type-of-change labels have been added.
-* [ ] I have read the [CONTRIBUTING](../blob/develop/CONTRIBUTING.md)
-      document.
-* [ ] These code changes follow [cisagov code
-      standards](https://github.com/cisagov/development-guide).
+* [ ] I have read the [CONTRIBUTING](../blob/develop/CONTRIBUTING.md) document.
+* [ ] These code changes follow [cisagov code standards](https://github.com/cisagov/development-guide).
 * [ ] All relevant repo and/or project documentation has been updated
       to reflect the changes in this PR.
 * [ ] Tests have been added to cover the changes in this PR.
