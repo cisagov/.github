@@ -39,5 +39,5 @@
 * [ ] These code changes follow [cisagov code standards](https://github.com/cisagov/development-guide).
 * [ ] All relevant repo and/or project documentation has been updated
       to reflect the changes in this PR.
-* [ ] Tests have been added to cover the changes in this PR.
+* [ ] Tests have been added and/or modified to cover the changes in this PR.
 * [ ] All new and existing tests pass.
