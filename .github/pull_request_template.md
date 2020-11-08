@@ -26,7 +26,7 @@
 ## ✅ Checklist ##
 
 <!-- Remove any of the following that do not apply. -->
-<!-- Draft PRs should have one or more un-checked boxes. -->
+<!-- Draft PRs should have one or more unchecked boxes. -->
 <!-- If you're unsure about any of these, don't hesitate to ask. -->
 <!-- We're here to help! -->
 
