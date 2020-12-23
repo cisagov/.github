@@ -3,17 +3,17 @@ name: 💡 Idea
 about: Describe an idea, todo, feature, task, improvement, issue, or story
 ---
 
-# 💡 Summary
+# 💡 Summary #
 
 What is the work, as a high-level summary?
 
-## Pitch
+## Pitch ##
 
 Why does this work belong in this project?
 
 This would be useful because...
 
-## Implementation notes
+## Implementation notes ##
 
 Please provide details for implementation, such as:
 
@@ -22,7 +22,7 @@ Please provide details for implementation, such as:
 - how this would act
 - any related work, including links to related issues
 
-## Acceptance Criteria
+## Acceptance Criteria ##
 
 How do we know when this work is done?
 

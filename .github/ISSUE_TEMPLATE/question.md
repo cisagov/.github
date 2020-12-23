@@ -3,9 +3,9 @@ name: 💬 Questions & Help
 about: If you have questions, visit the Discussions and Wiki
 ---
 
-# 💬 Questions and Help
+# 💬 Questions and Help #
 
-## For questions or help please visit other resources
+## For questions or help please visit other resources ##
 
 In this repository:
 
@@ -21,7 +21,7 @@ For specific `cisagov` systems, please see:
   - [CyHy wiki](https://github.com/cisagov/cyhy-system/wiki)
   - [CyHy discussion board](https://github.com/cisagov/cyhy-system/discussions)
 
-## This issue will be closed
+## This issue will be closed ##
 
 Please visit the resources above instead of continuing to create this issue.
 

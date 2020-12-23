@@ -3,20 +3,20 @@ name: 🚀 Epic
 about: Describe a high-level objective which covers multiple issues
 ---
 
-# 🚀 Summary
+# 🚀 Summary #
 
 A short, high-level description of the epic or feature - the "what".
 
 An epic is a high-level objective encompassing multiple issues, as opposed to
 a specific unit of work.
 
-## Pitch
+## Pitch ##
 
 Why does this feature belong in this project?
 
 This would be useful because...
 
-## Implementation notes
+## Implementation notes ##
 
 Please provide details for implementation, such as:
 
@@ -25,7 +25,7 @@ Please provide details for implementation, such as:
 - how this feature would act
 - any related work, especially links to issues
 
-## Acceptance Criteria
+## Acceptance Criteria ##
 
 How do we know when this work is done?
 
