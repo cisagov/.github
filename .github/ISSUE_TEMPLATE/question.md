@@ -26,4 +26,3 @@ For specific `cisagov` systems, please see:
 Please visit the resources above instead of continuing to create this issue.
 
 If all else fails, please email us at [github@cisa.dhs.gov](mailto:github@cisa.dhs.gov).
-
