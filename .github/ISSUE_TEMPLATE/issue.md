@@ -1,6 +1,6 @@
 ---
 name: 💡 Idea
-about: Describe an idea, improvement, todo, feature, issue, story, or task
+about: Describe an idea, todo, feature, task, improvement, issue, or story
 ---
 
 # 💡 Summary
@@ -9,7 +9,7 @@ What is the work, as a high-level summary?
 
 ## Pitch
 
-Why does this feature belong in this project?
+Why does this work belong in this project?
 
 This would be useful because...
 
@@ -17,10 +17,10 @@ This would be useful because...
 
 Please provide details for implementation, such as:
 
-- an example for how this feature would be used
-- what this feature would look
-- how this feature would act
-- any related work, especially links to issues
+- an example for how this would be used
+- what this would look like
+- how this would act
+- any related work, including links to related issues
 
 ## Acceptance Criteria
 
