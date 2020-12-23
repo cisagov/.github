@@ -29,4 +29,4 @@ Please provide details for implementation, such as:
 
 How do we know when this work is done?
 
-- [ ] 
+- [ ] Criterion
