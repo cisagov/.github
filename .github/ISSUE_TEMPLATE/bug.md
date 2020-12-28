@@ -7,7 +7,7 @@ about: Describe a bug, error, unexpected behavior, or other problem
 
 What's wrong? Please be specific.
 
-## To Reproduce ##
+## To reproduce ##
 
 Steps to reproduce the behavior:
 

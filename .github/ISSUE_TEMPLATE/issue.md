@@ -22,7 +22,7 @@ Please provide details for implementation, such as:
 - how this would act
 - any related work, including links to related issues
 
-## Acceptance Criteria ##
+## Acceptance criteria ##
 
 How do we know when this work is done?
 

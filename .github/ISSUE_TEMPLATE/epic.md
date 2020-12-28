@@ -25,7 +25,7 @@ Please provide details for implementation, such as:
 - how this feature would act
 - any related work, especially links to issues
 
-## Acceptance Criteria ##
+## Acceptance criteria ##
 
 How do we know when this work is done?
 
