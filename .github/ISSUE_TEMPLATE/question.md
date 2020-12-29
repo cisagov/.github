@@ -1,18 +1,19 @@
 ---
 name: 💬 Questions & Help
-about: If you have questions, visit the Discussions and Wiki
+about: If you have questions, visit GitHub Discussions and Wiki pages
 ---
 
-# 💬 Questions and Help #
+# 💬 Questions #
 
-## For questions or help please visit other resources ##
+## For questions or help please file an issue or visit other resources ##
 
-In this repository:
+For questions regarding this repository:
 
 - Wiki tab
 - Discussions tab
 
-For specific `cisagov` systems, please see:
+For specific `cisagov` systems, please see one of the following
+repositories and use its documentation or create a discussion post:
 
 - [COOL system](https://github.com/cisagov/cool-system/)
   - [COOL wiki](https://github.com/cisagov/cool-system/wiki)
