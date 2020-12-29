@@ -10,7 +10,7 @@ A short, high-level description of the epic or feature - the "what".
 An epic is a high-level objective encompassing multiple issues, as opposed to
 a specific unit of work.
 
-## Pitch ##
+## Motivation ##
 
 Why does this feature belong in this project?
 

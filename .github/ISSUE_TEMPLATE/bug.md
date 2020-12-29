@@ -3,7 +3,7 @@ name: 🐛 Bug report
 about: Describe a bug, error, unexpected behavior, or other problem
 ---
 
-# 🐛 Bug Report #
+# 🐛 Summary #
 
 What's wrong? Please be specific.
 
