@@ -1,6 +1,6 @@
 ---
 name: 💡 Idea
-about: Describe an idea, todo, feature, task, improvement, issue, or story
+about: Describe an idea, todo, feature, task, improvement, issue, epic, or story
 ---
 
 # 💡 Summary #
