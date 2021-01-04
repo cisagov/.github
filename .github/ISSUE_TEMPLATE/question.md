@@ -15,12 +15,12 @@ For questions regarding this repository:
 For specific `cisagov` systems, please see one of the following
 repositories and use its documentation or create a discussion post:
 
-* [COOL system](https://github.com/cisagov/cool-system/)
-  * [COOL wiki](https://github.com/cisagov/cool-system/wiki)
-  * [COOL discussion board](https://github.com/cisagov/cool-system/discussions)
-* [Cyber Hygiene (CyHy) system](https://github.com/cisagov/cyhy-system/)
-  * [CyHy wiki](https://github.com/cisagov/cyhy-system/wiki)
-  * [CyHy discussion board](https://github.com/cisagov/cyhy-system/discussions)
+- [COOL system](https://github.com/cisagov/cool-system/)
+  - [COOL wiki](https://github.com/cisagov/cool-system/wiki)
+  - [COOL discussion board](https://github.com/cisagov/cool-system/discussions)
+- [Cyber Hygiene (CyHy) system](https://github.com/cisagov/cyhy-system/)
+  - [CyHy wiki](https://github.com/cisagov/cyhy-system/wiki)
+  - [CyHy discussion board](https://github.com/cisagov/cyhy-system/discussions)
 
 ## This issue will be closed ##
 
