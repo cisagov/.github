@@ -22,7 +22,7 @@ What did you expect to happen that didn't?
 
 Paste the results here:
 
-```bash
+```console
 
 ```
 

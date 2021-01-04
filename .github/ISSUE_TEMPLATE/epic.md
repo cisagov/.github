@@ -1,5 +1,5 @@
 ---
-name: 🚀 Epic
+name: 📜 Epic
 about: Describe a high-level objective which covers multiple issues
 ---
 
@@ -20,10 +20,10 @@ This would be useful because...
 
 Please provide details for implementation, such as:
 
-- an example for how this feature would be used
-- what this feature would look
-- how this feature would act
-- any related work, especially links to issues
+* an example for how this feature would be used
+* what this feature would look
+* how this feature would act
+* any related work, especially links to issues
 
 ## Acceptance criteria ##
 
