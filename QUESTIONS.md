@@ -23,3 +23,4 @@ repositories and use its documentation or create a discussion post:
 - [scanner](https://github.com/cisagov/scanner)
   - [pshtt](https://github.com/cisagov/pshtt)
   - [trustymail](https://github.com/cisagov/trustymail)
+- [Sparrow](https://github.com/cisagov/Sparrow)
