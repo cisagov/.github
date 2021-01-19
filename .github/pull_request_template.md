@@ -5,7 +5,7 @@
 <!-- Describe the "what" of your changes in detail. -->
 <!-- To avoid scope creep, limit changes to a single goal. -->
 
-## 💭 Motivation and Context ##
+## 💭 Motivation and context ##
 
 <!-- Why is this change required? -->
 <!-- What problem does this change solve? How did you solve it? -->
