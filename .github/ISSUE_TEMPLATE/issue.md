@@ -7,7 +7,7 @@ about: Describe an idea, todo, feature, task, improvement, issue, epic, or story
 
 What is the work, as a high-level summary?
 
-## Motivation ##
+## Motivation and context ##
 
 Why does this work belong in this project?
 
