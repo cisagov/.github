@@ -19,9 +19,12 @@
 <!-- Include details of your testing environment, and the tests you ran to -->
 <!-- see how your change affects other areas of the code, etc. -->
 
+<!--
 ## 📷 Screenshots (if appropriate) ##
 
-<!-- Remove this section and header if not needed -->
+<!-- Uncomment this section if a screenshot is needed. -->
+
+-->
 
 ## ✅ Checklist ##
 
