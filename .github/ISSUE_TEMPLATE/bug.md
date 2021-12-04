@@ -5,25 +5,31 @@ about: Describe a bug, error, unexpected behavior, or other problem
 
 # 🐛 Summary #
 
-What's wrong? Please be specific.
+<!-- What's wrong? Please be specific. -->
+<!-- Describe what happens now that is not intended -->
 
 ## To reproduce ##
 
-Steps to reproduce the behavior:
+<!-- Include detailed step-by-step instructions for how to get to the error -->
 
-1. Do this
-1. Then this
+1. Navigate to Page
+1. Click on A
+1. Select B
 
 ## Expected behavior ##
 
-What did you expect to happen that didn't?
+<!-- What did you expect to happen that didn't? -->
+<!-- Describe what would happen if this were successful -->
 
 ## Any helpful log output or screenshots ##
 
-Paste the results here:
+<!-- Include any information that might help explain the what or the why -->
+
+<!-- Paste terminal or log output here: -->
 
 ```console
 
 ```
 
-Add any screenshots of the problem here.
+<!-- Screenshots of the issue are extremely helpful! -->
+<!-- Add any screenshots of the problem here. -->
