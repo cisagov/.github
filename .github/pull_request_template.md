@@ -9,7 +9,7 @@
 
 <!-- Why is this change required? -->
 <!-- What problem does this change solve? How did you solve it? -->
-<!-- Mention any related issue(s) here using appropriate keywords such
+<!-- Mention any related issue(s) here using appropriate keywords such -->
 <!-- as "closes" or "resolves" to auto-close them on merge. -->
 
 ## 🧪 Testing ##
