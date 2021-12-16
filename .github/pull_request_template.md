@@ -9,21 +9,23 @@
 
 <!-- Why is this change required? -->
 <!-- What problem does this change solve? How did you solve it? -->
-<!-- Mention any related issue(s) here using appropriate keywords such
+<!-- Mention any related issue(s) here using appropriate keywords such -->
 <!-- as "closes" or "resolves" to auto-close them on merge. -->
 
 ## 🧪 Testing ##
 
 <!-- How did you test your changes? How could someone else test this PR? -->
-
 <!-- Include details of your testing environment, and the tests you ran to -->
 <!-- see how your change affects other areas of the code, etc. -->
 
+<!--
 ## 📷 Screenshots (if appropriate) ##
 
-<!-- Remove this section and header if not needed -->
+<!-- Uncomment this section if a screenshot is needed. -->
 
-## ✅ Checklist ##
+-->
+
+## ✅ Pre-approval checklist ##
 
 <!-- Remove any of the following that do not apply. -->
 <!-- Draft PRs should have one or more unchecked boxes. -->
@@ -41,3 +43,17 @@
       to reflect the changes in this PR.
 - [ ] Tests have been added and/or modified to cover the changes in this PR.
 - [ ] All new and existing tests pass.
+
+## ✅ Pre-merge checklist ##
+
+<!-- Remove any of the following that do not apply. -->
+<!-- These boxes should remain unchecked until the pull request has been approved. -->
+
+- [ ] Revert dependencies to default branches.
+- [ ] Finalize version.
+
+## ✅ Post-merge checklist ##
+
+<!-- Remove any of the following that do not apply. -->
+
+- [ ] Add a tag or create a release.
