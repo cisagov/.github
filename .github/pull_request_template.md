@@ -21,7 +21,7 @@
 <!--
 ## 📷 Screenshots (if appropriate) ##
 
-<!-- Uncomment this section if a screenshot is needed. -->
+Uncomment this section if a screenshot is needed.
 
 -->
 
