@@ -33,8 +33,8 @@ Uncomment this section if a screenshot is needed.
 <!-- We're here to help! -->
 
 - [ ] This PR has an informative and human-readable title.
-- [ ] Changes are limited to a single goal - _eschew scope creep!_
-- [ ] _All_ future TODOs are captured in issues, which are referenced
+- [ ] Changes are limited to a single goal - *eschew scope creep!*
+- [ ] *All* future TODOs are captured in issues, which are referenced
       in code comments.
 - [ ] All relevant type-of-change labels have been added.
 - [ ] I have read the [CONTRIBUTING](../blob/develop/CONTRIBUTING.md) document.
