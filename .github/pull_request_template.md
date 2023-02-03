@@ -47,7 +47,8 @@ Uncomment this section if a screenshot is needed.
 ## ✅ Pre-merge checklist ##
 
 <!-- Remove any of the following that do not apply. -->
-<!-- These boxes should remain unchecked until the pull request has been approved. -->
+<!-- These boxes should remain unchecked until the pull request has been -->
+<!-- approved. -->
 
 - [ ] Revert dependencies to default branches.
 - [ ] Finalize version.
