@@ -1,5 +1,5 @@
 # cisagov Security Policy #
 
 Please see the
-[CISA Vulnerability Disclosure Policy](https://www.cisa.gov/vulnerability-disclosure-policy-template)
+[DHS Vulnerability Disclosure Policy](https://www.dhs.gov/vulnerability-disclosure-policy)
 for details about how we handle vulnerability disclosure.
