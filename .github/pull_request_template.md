@@ -41,6 +41,7 @@ Uncomment this section if a screenshot is needed.
 - [ ] All relevant repo and/or project documentation has been updated to reflect the changes in this PR.  <!-- markdownlint-disable-line MD013 -->
 - [ ] Tests have been added and/or modified to cover the changes in this PR.
 - [ ] All new and existing tests pass.
+- [ ] Bump major, minor, patch, pre-release, and/or build versions [as appropriate](https://semver.org/#semantic-versioning-specification-semver) via the `bump_version` script *if* this repository is versioned *and* the changes in this PR [warrant a version bump](https://semver.org/#what-should-i-do-if-i-update-my-own-dependencies-without-changing-the-public-api).  <!-- markdownlint-disable-line MD013 -->
 
 ## ✅ Pre-merge checklist ##
 
