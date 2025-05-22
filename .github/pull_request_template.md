@@ -1,3 +1,12 @@
+<!-- GitHub renders PRs such that soft line breaks are treated as hard
+line breaks.  In order to make this template render as expected we
+therefore have to avoid soft breaks and therefore will offend
+markdownlint with long lines.  This is the reason for the markdownline
+disable directive just below.
+
+For more details see:
+https://github.com/github/markup/issues/1050#issuecomment-294654762 -->
+<!-- markdownlint-disable MD013 -->
 # <!-- Use the title to describe PR changes in the imperative mood --> #
 
 ## 🗣 Description ##
@@ -34,15 +43,15 @@ Uncomment this section if a screenshot is needed.
 
 - [ ] This PR has an informative and human-readable title.
 - [ ] Changes are limited to a single goal - *eschew scope creep!*
-- [ ] *All* future TODOs are captured in issues, which are referenced
-      in code comments.
+- [ ] *All* future TODOs are captured in issues, which are referenced in code comments.
 - [ ] All relevant type-of-change labels have been added.
 - [ ] I have read the [CONTRIBUTING](../blob/develop/CONTRIBUTING.md) document.
 - [ ] These code changes follow [cisagov code standards](https://github.com/cisagov/development-guide).
-- [ ] All relevant repo and/or project documentation has been updated
-      to reflect the changes in this PR.
+- [ ] All relevant repo and/or project documentation has been updated to reflect the changes in this PR.
 - [ ] Tests have been added and/or modified to cover the changes in this PR.
 - [ ] All new and existing tests pass.
+- [ ] Bump major, minor, patch, pre-release, and/or build versions [as appropriate](https://semver.org/#semantic-versioning-specification-semver) via the `bump_version` script *if* this repository is versioned *and* the changes in this PR [warrant a version bump](https://semver.org/#what-should-i-do-if-i-update-my-own-dependencies-without-changing-the-public-api).
+- [ ] Create a pre-release (necessary if and only if the pre-release version was bumped).
 
 ## ✅ Pre-merge checklist ##
 
@@ -57,4 +66,4 @@ Uncomment this section if a screenshot is needed.
 
 <!-- Remove any of the following that do not apply. -->
 
-- [ ] Create a release.
+- [ ] Create a release (necessary if and only if the version was bumped).
