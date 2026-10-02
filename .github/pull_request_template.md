@@ -49,6 +49,7 @@ Uncomment this section if a screenshot is needed.
 - [ ] These code changes follow [cisagov code standards](https://github.com/cisagov/development-guide).
 - [ ] All relevant repo and/or project documentation has been updated to reflect the changes in this PR.
 - [ ] Tests have been added and/or modified to cover the changes in this PR.
+- [ ] AI was used for research and/or understanding purposes while creating this pull request.
 - [ ] AI was used to generate code in this PR (either fully or in part).
   - [ ] I attest that I understand the AI-generated code and its functionality.
   - [ ] I am comfortable answering questions about the implementation of the AI-generated code.
