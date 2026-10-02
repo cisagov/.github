@@ -49,7 +49,9 @@ Uncomment this section if a screenshot is needed.
 - [ ] These code changes follow [cisagov code standards](https://github.com/cisagov/development-guide).
 - [ ] All relevant repo and/or project documentation has been updated to reflect the changes in this PR.
 - [ ] Tests have been added and/or modified to cover the changes in this PR.
-- [ ] AI was used to generate code in this PR, and I attest that I understand the generated code and am comfortable answering questions about it.
+- [ ] AI was used to generate code in this PR (either fully or in part).
+  - [ ] I attest that I understand the AI-generated code and its functionality.
+  - [ ] I am comfortable answering questions about the implementation of the AI-generated code.
 - [ ] All new and existing tests pass.
 - [ ] Bump major, minor, patch, pre-release, and/or build versions [as appropriate](https://semver.org/#semantic-versioning-specification-semver) via the `bump_version` script *if* this repository is versioned *and* the changes in this PR [warrant a version bump](https://semver.org/#what-should-i-do-if-i-update-my-own-dependencies-without-changing-the-public-api).
 - [ ] Create a pre-release (necessary if and only if the pre-release version was bumped).
